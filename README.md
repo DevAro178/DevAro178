@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DevAro178
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning JS Frameworks
-- 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me me.ammad178@gmail.com
+- 👋 Hi, I am a software engineer with 3 years of experience, known for my ability to adapt and tackle complex challenges across various domains. I’ve consistently embraced opportunities to learn and implement solutions in unfamiliar areas. Driven by a passion for understanding how systems operate, I’m eager to continuously expand my skillset and take on new problems, with a long-term goal of transitioning into DevOps.
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me me.ammad1786@gmail.com
 
 <!---
 DevAro178/DevAro178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
