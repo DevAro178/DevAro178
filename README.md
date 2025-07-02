@@ -2,6 +2,10 @@
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me me.ammad1786@gmail.com
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/84995478-eb8e-42e4-a5a8-eacff051069b/thumbnail" >
+</p>
+
 <!---
 DevAro178/DevAro178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
